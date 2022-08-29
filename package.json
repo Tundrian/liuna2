@@ -4,7 +4,27 @@
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
     "express": "^4.18.1",
     "mongoose": "^6.5.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "name": "liuna2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tundrian/liuna2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tundrian/liuna2/issues"
+  },
+  "homepage": "https://github.com/Tundrian/liuna2#readme",
+  "description": ""
 }
